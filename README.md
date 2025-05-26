@@ -21,7 +21,7 @@ Amazon Bedrock의 LLM을 활용하여 PPTX 의 슬라이드 내용을 번역 합
 
 ## 요구 사항
 
-- Python 3.6 이상
+- Python 3.8 이상
 - 필요한 Python 패키지:
   - boto3
   - python-pptx
@@ -33,7 +33,7 @@ Amazon Bedrock의 LLM을 활용하여 PPTX 의 슬라이드 내용을 번역 합
 2. 필요한 패키지를 설치합니다:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt -U
 ```
 
 3. AWS 자격 증명이 Amazon Bedrock에 대한 접근 권한으로 올바르게 구성되어 있는지 확인합니다
