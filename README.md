@@ -170,7 +170,7 @@ flowchart TB
 
 ### 번역 접근 방식
 
-이 애플리케이션은 Amazon Bedrock Claude 3.5 Sonnet을 위한 신중하게 작성된 프롬프트를 사용합니다:
+이 애플리케이션은 Amazon Bedrock Claude 3.5 Sonnet를 사용하기 위해 작성된 프롬프트를 사용합니다:
 - 의미와 뉘앙스의 정확한 번역 우선
 - 대상 언어에서 자연스러운 표현 보장
 - 서식 및 특수 문자 유지
